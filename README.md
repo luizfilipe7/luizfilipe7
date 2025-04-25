@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luizfilipe7
-- 👀 I’m interested in learn coding, starting by Front End, but also thinking about studying back-end in the future;
-- 🌱 I’m currently learning HTML5+CSS3 & .JS
+-  🌱 I’m learning Devops frameworks, techniques and tools as Ansible and Terraform
 - 📫 Reach me at luiz.amaral747@hotmail.com  & https://www.linkedin.com/in/luiz-filipe-amaral-a16a65155/
 
 <!---
